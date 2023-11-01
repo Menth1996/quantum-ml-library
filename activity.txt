@@ -35,3 +35,4 @@ Activity on 2023-09-29T00:00:00 - Refactor "configuration" module
 Activity on 2023-10-06T00:00:00 - Improve "API integration" logic
 Activity on 2023-10-23T00:00:00 - Merge pull request #78 from gpu-memory-profiler/main
 Activity on 2023-10-30T00:00:00 - test: Add unit tests
+Activity on 2023-11-01T00:00:00 - fix: Resolve bug
