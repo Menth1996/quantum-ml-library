@@ -103,3 +103,4 @@ Activity on 2025-03-14T00:00:00 - style: Format code
 Activity on 2025-03-17T00:00:00 - Update dependencies
 Activity on 2025-03-18T00:00:00 - fix: Resolve bug
 Activity on 2025-03-20T00:00:00 - Update dependencies
+Activity on 2025-03-20T00:00:00 - Merge pull request #6 from distributed-rlhf-trainer/main
