@@ -105,3 +105,4 @@ Activity on 2025-03-18T00:00:00 - fix: Resolve bug
 Activity on 2025-03-20T00:00:00 - Update dependencies
 Activity on 2025-03-20T00:00:00 - Merge pull request #6 from distributed-rlhf-trainer/main
 Activity on 2025-03-20T00:00:00 - feat: Add new feature
+Activity on 2025-04-07T00:00:00 - Merge pull request #82 from ai-ethics-toolkit/main
