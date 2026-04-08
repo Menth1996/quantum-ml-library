@@ -1,0 +1,11 @@
+name = "QuantumML"
+uuid = "a1b2c3d4-e5f6-7890-1234-567890abcdef"
+authors = ["Miles Anthony <miles.anthony@example.com>"]
+version = "0.1.0"
+
+[deps]
+Yao = "22e0b1c6-2144-582c-b174-329402631627"
+PythonCall = "6099a335-e1d4-42f4-863e-223c72332900"
+
+[compat]
+julia = "1.8"
